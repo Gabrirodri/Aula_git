@@ -1,6 +1,6 @@
 # Aula de Git
 
-Esse Repositório é uma aula de comandos basico do git e github
+## Esse Repositório é uma aula de comandos basico do git e github
 
 ### Comandos basicos utilizados: 
 Cria um novo repositorio
